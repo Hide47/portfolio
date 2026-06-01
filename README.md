@@ -228,3 +228,6 @@
 - 不安な点：現時点では全てです。
 
 ---
+
+### 画面遷移図
+Figma：<https://www.figma.com/design/moU3rDFI2HKPnsWLdcj1sW/Kentei?node-id=0-1&t=NBhF0J3OzKWbkt8O-1>
