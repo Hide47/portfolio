@@ -231,3 +231,7 @@
 
 ### 画面遷移図
 Figma：<https://www.figma.com/design/moU3rDFI2HKPnsWLdcj1sW/Kentei?node-id=0-1&t=NBhF0J3OzKWbkt8O-1>
+
+
+### ER図
+![](app/assets/images/er.png)
