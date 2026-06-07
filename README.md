@@ -232,6 +232,24 @@
 ### 画面遷移図
 Figma：<https://www.figma.com/design/moU3rDFI2HKPnsWLdcj1sW/Kentei?node-id=0-1&t=NBhF0J3OzKWbkt8O-1>
 
-
 ### ER図
 ![](app/assets/images/er.png)
+
+### 1週間辺りの開発に向けられる時間
+- 1週間あたり：20時間
+  約10ストーリーポイント
+
+### ProjectsのURL
+https://github.com/users/Hide47/projects/1/views/1
+
+### MVPリリースまで
+- ログイン機能
+- CSVからデータを取込機能
+- 検索機能
+
+### MVP後
+- 試験毎の統計情報
+- アカウント機能
+
+### MVPレビュー依頼予定日
+予定日：2026年6月27日
